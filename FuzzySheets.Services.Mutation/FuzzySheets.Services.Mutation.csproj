@@ -9,8 +9,4 @@
       <ProjectReference Include="..\FuzzySheets.Services\FuzzySheets.Services.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Rules\" />
-    </ItemGroup>
-
 </Project>

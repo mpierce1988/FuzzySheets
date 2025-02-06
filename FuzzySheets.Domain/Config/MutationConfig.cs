@@ -2,10 +2,10 @@ namespace FuzzySheets.Domain.Config
 {
     public class MutationConfig
     {
-        public bool NumberFormat { get; set; }
-        public bool DateFormat { get; set; }
-        public bool Encoding { get; set; }
-        public bool EmptyValues { get; set; }
-        public bool DecimalPrecision { get; set; }
+        public MutationDetail NumberFormat { get; set; } = new MutationDetail();
+        public MutationDetail DateFormat { get; set; } = new MutationDetail();
+        public MutationDetail Encoding { get; set; } = new MutationDetail();
+        public MutationDetail EmptyValues { get; set; } = new MutationDetail();
+        public MutationDetail DecimalPrecision { get; set; } = new MutationDetail();
     }
 }
