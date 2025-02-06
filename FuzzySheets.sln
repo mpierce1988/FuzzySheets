@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzySheets.Services", "Fuz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzySheets.Domain", "FuzzySheets.Domain\FuzzySheets.Domain.csproj", "{7E60C667-5295-49EE-84AF-05720338DB7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzySheets.Services.EpPlus", "FuzzySheets.Services.EpPlus\FuzzySheets.Services.EpPlus.csproj", "{EE7B234B-E605-41F1-B4E3-D0CCA9AE87C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzySheets.Services.Mutation", "FuzzySheets.Services.Mutation\FuzzySheets.Services.Mutation.csproj", "{30B2DD83-D5F9-4A03-809E-76BD49BB7485}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{7E60C667-5295-49EE-84AF-05720338DB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E60C667-5295-49EE-84AF-05720338DB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E60C667-5295-49EE-84AF-05720338DB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7B234B-E605-41F1-B4E3-D0CCA9AE87C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7B234B-E605-41F1-B4E3-D0CCA9AE87C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7B234B-E605-41F1-B4E3-D0CCA9AE87C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7B234B-E605-41F1-B4E3-D0CCA9AE87C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30B2DD83-D5F9-4A03-809E-76BD49BB7485}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B2DD83-D5F9-4A03-809E-76BD49BB7485}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B2DD83-D5F9-4A03-809E-76BD49BB7485}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B2DD83-D5F9-4A03-809E-76BD49BB7485}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
