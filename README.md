@@ -1,4 +1,4 @@
-# FuzzySheets
+# FuzzySheets (WIP)
 
 FuzzySheets is a utility project designed to enhance the robustness of Excel parsers through the systematic mutation of Excel files. This tool facilitates fuzzy testing by introducing a variety of controlled mutations that mimic common data anomalies and formatting variations typically encountered in real-world Excel documents.
 
